@@ -5,7 +5,7 @@ This repository contains implementations of various Data Structures and Algorith
 ## 1. Basic Concepts
 
 ### Array
-- Array Basics
+- ~~Array Basics~~
 - Dynamic Arrays
 - Multidimensional Arrays
 - Array Manipulations
