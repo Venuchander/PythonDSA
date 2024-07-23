@@ -1,7 +1,3 @@
-# haystack = "sadbutsad"
-# needle = "sad"
-
-
 haystack = "sadbutsad"
 needle = "sad"
 
